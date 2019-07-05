@@ -1,0 +1,6 @@
+title: Awesome Yocto Project
+logo: /yocto_project.png
+description: The Yocto Project is awesome!
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
