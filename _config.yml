@@ -1,6 +1,6 @@
 title: Awesome Yocto Project
 logo: /yocto_project.png
-description: The Yocto Project is awesome!
+description: It’s not an embedded Linux Distribution, It creates a custom one for you.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
