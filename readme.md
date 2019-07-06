@@ -9,6 +9,7 @@
 - [Books](#books)
 - [Development tools](#development-tools)
 - [Documentation](#documentation)
+- [Online courses](#online-courses)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
 
@@ -74,6 +75,11 @@
 
 - [Yocto Project Reference Manual](https://www.yoctoproject.org/docs/2.7/ref-manual/ref-manual.html)
 - [Yocto Project Mega Manual](https://www.yoctoproject.org/docs/current/mega-manual/mega-manual.html)
+
+## Online Courses
+
+- [Raspberry Pi with embedded Linux made by Yocto (Udemy)](https://www.udemy.com/raspberry-pi-with-embedded-linux-made-by-yocto/).
+- [Yocto Embedded Linux with the Raspberry Pi (Udemy)](https://www.udemy.com/embedded-linux-with-the-raspberry-pi/).
 
 ## Presentations
 
