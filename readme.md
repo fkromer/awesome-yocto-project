@@ -7,6 +7,7 @@
 ## Contents
 
 - [Presentations](#presentations)
+- [Trainings](#trainings)
 
 ## Presentations
 
@@ -22,6 +23,16 @@
 - Creating Your Own Tiny Linux Distribution Using Yocto: Keeping it Small With Poky-Tiny [slides](https://elinux.org/images/0/0a/Creating-Your-Own-Tiny-Linux-Distribution-Using-Yocto-Keeping-it-Small-With-Poky-Tiny-Alejandro-Hernandez-Xilinx.pdf) / [video](https://youtu.be/OcZY1jm-c5o) - About the poky-tiny and petalinux-tiny distribution based images which are small and boot fast.
 - Why the Yocto Project for My IoT Project [slides](https://elinux.org/images/c/c1/Why-the-Yocto-Project-for-My-IoT-Project-Drew-Moseley-Mender.io_.pdf) / [video](https://youtu.be/hh1UiX4awCE).
 - Working with the Linux Kernel in the Yocto Project (Embedded Linux Conference) [slides](https://elinux.org/images/a/a6/2018-ELC-YP%2BKernel-Hudson-reduced.pdf) / [video](https://darknighte.com/ELC2018Video).
+
+## Trainings
+
+### 2018
+
+- Workshop: Yocto Project, an automatic generator of embedded linux distributions [slides](ftp://ftp.koansoftware.com/public/talks/LinuxLAB-2018/LinuxLAB-2018-Yocto-Koan.pdf) / [companion code](https://github.com/koansoftware/linuxlab-yocto) - Shows ow to use the CROPS poky container.
+
+### 2017
+
+- [Yocto Project Developer Day](https://wiki.yoctoproject.org/wiki/DevDay_Portland_2018).
 
 ## License
 
