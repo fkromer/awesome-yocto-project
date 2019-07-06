@@ -26,6 +26,34 @@
 
 ## Development tools
 
+- [autobuilder-worker-prereq-tests](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/autobuilder-worker-prereq-tests) - Checks if all needed configuration is present on new autobuilder workers.
+- [bitbake-prserv-tool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/bitbake-prserv-tool).
+- [bitbake-whatchanged](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/bitbake-whatchanged) - Print what will be done between the current and last builds.
+- [buildhistory-collect-srcrevs](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/buildhistory-collect-srcrevs) - Collects recorded SRCREV values from buildhistory and reports on them.
+- [buildhistory-diff](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/buildhistory-diff) - Reports significant differences in the buildhistory repository since a specific revision.
+- [buildstats-diff](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/buildstats-diff) - Compares buildstats from two different builds.
+- [combo-layer](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/combo-layer).
+- [combo-layer-hook-default.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/combo-layer-hook-default.sh).
+- contrib
+  - [bbperf/bb-matrix-plot.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/bb-perf/bb-matrix-plot.sh) - Generates tree views from .dat files generated  with bb-matrix.sh.
+  - [bbperf/bb-matrix.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/bb-perf/bb-matrix.sh) - Generates .dat file with image build statistics (core-image-sato) considering all combinations of BB_RANGE and PM_RANGE values.
+  - [bbperf/buildstats-plot.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/bb-perf/buildstats-plot.sh) - Visualizes data generated with buildstats.sh .
+  - [bbperf/buildstats.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/bb-perf/buildstats.sh) - Generates statstics about builds.
+  - [bbvars.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/bbvars.py) - Checks for undocumented variables.
+  - [build-perf-test-wrapper.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/build-perf-test-wrapper.sh) - Initializes build environment, runs oe-build-perf-test and archives the results.
+  - [ddimage](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/ddimage) - Writes an image to a device.
+  - [devtools-stress](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/devtool-stress.py) - Stress tests devtools.
+  - [dialog-power-control](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/dialog-power-control).
+  - [documentation-audit.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/documentation-audit.sh) - Performs an audit of which packages provide documentation and which are missing -doc packages.
+  - [graph-tool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/graph-tool).
+  - [list-packageconfig-flags.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/list-packageconfig-flags.py) - List info w.r.t. PACKAGECONFIG flags and recipes.
+  - [oe-build-perf-report-email.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/oe-build-perf-report-email.py) - Sends build performance test report via email.
+  - [patchreview.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/patchreview.py).
+  - [patchtest.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/patchtest.sh).
+  - [serdevtry](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/serdevtry).
+  - [test_build_time.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/test_build_time.sh) - Regression test build performance.
+  - [uncovered](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/uncovered) - Finds python modules uncovered by oe-seltest.
+  - [verify-homepage](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/contrib/verify-homepage.py) - Verifies HOMEPAGE values for all recipes in the current configuration.
 - [cp-noerror](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/cp-noerror) - Copies directories recursively.
 - [create-pull-request](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/create-pull-request) - Prepare a series of patches and a cover letter in an appropriate and consistent format for submission to Open Embedded and The Yocto Project, as well as to related projects and layers.
 - [crosstap](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/crosstap) - Builds a systemtap script for a given image, kernel.
