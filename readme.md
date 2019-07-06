@@ -8,6 +8,7 @@
 
 - [Books](#books)
 - [Development tools](#development-tools)
+- [Documentation](#documentation)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
 
@@ -53,6 +54,26 @@
 - [wic](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/wic) - Generates bootable images.
 - [yocto-check-layer](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer) - Checks layer in a potentially contaminated environment.
 - [yocto-check-layer-wrapper](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer-wrapper) - Checks layer in a clean environment.
+
+## Documentation
+
+### Development Manuals / How Tos
+
+- [Yocto Project Overview and Concepts Manual](https://www.yoctoproject.org/docs/2.7/overview-manual/overview-manual.html)
+- [Yocto Project Development Tasks Manual](https://www.yoctoproject.org/docs/2.7/dev-manual/dev-manual.html)
+- [Yocto Project Board Support Package (BSP) Developer's Guide](https://www.yoctoproject.org/docs/2.7/bsp-guide/bsp-guide.html)
+- [Yocto Project Profiling and Tracing Manual](https://yoctoproject.org/docs/2.7/profile-manual/profile-manual.html)
+- [Yocto Project Linux Kernel Development Manual](https://www.yoctoproject.org/docs/2.7/kernel-dev/kernel-dev.html)
+
+### Tools Manuals
+
+- [Toaster User Manual](https://www.yoctoproject.org/docs/2.7/toaster-manual/toaster-manual.html)
+- [BitBake User Manual](https://www.yoctoproject.org/docs/2.7/bitbake-user-manual/bitbake-user-manual.html)
+
+### Reference Manuals
+
+- [Yocto Project Reference Manual](https://www.yoctoproject.org/docs/2.7/ref-manual/ref-manual.html)
+- [Yocto Project Mega Manual](https://www.yoctoproject.org/docs/current/mega-manual/mega-manual.html)
 
 ## Presentations
 
