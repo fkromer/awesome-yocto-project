@@ -26,6 +26,20 @@
 
 ## Development tools
 
+- [oe-build-perf-report](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-build-perf-report) - Generates build performance test results.
+- [oe-build-perf-test](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-build-perf-test) - Tests build performance.
+- [oe-check-sstate](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-check-sstate) - Queries which tasks will be restored from sstate.
+- [oe-depends-dot](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-depends-dot).
+- [oe-git-archive](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-git-archive) - Commits data to git and pushes upstream.
+- [oe-git-proxy](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-git-proxy).
+- [oe-pkgdata-util](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-pkgdata-util).
+- [oe-publish-sdk](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-publish-sdk).
+- [oe-pylint](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-pylint) - Runs pylint3 against our common python module spaces and print a report of potential issues (for Yocto Project development).
+- [oe-run-native](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-run-native).
+- [oe-selftest](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-selftest) - Executes automated tests for different bitbake tools (for Yocto Project development).
+- [oe-test](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-test) - OpenEmbedded test tool (For Yocto Project development).
+- [oe-trim-schemas](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-trim-schemas) - Removes unneeded schema locale translations from gconf schema files.
+- [opkg-query-helper.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/opkg-query-helper.py) - opkg query helper utility.
 - [pybootchartgui](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/pybootchartgui/) - Visualizes and analyzes the GNU/Linux boot process.
 - [pythondeps](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/pythondeps) - Determines dependencies of python scripts or available python modules in a search path.
 - [recipetool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/recipetool) - Creates recipes.
