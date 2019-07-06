@@ -24,6 +24,12 @@
 
 ## Development tools
 
+- [send-error-report](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/send-error-report) - Sends an error report (if the report-error class was enabled) to a remote server.
+- [send-pull-request](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/send-pull-request) - Sends a patch series prepared by the create-pull-request script to Open Embedded and The Yocto Project, as well as to related projects and layers.
+- [sstate-cache-management.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sstate-cache-management.sh) - sstate cache management utilities to e.g. remove dublicated files.
+- [sstate-diff-machines.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sstate-diff-machines.sh) - Compares sstate checksums between MACHINES.
+- [sstate-sysroot-cruft.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sstate-sysroot-cruft.sh) - Used to find files installed in sysroot which are not tracked by sstate manifest.
+- [sysroot-relativelinks.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sysroot-relativelinks.py) - Takes a sysroot directory and turns all the abolute symlinks and turns them into relative ones such that the sysroot is usable within another system.
 - [task-time](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/task-time) - Reports time consumed for one or more task.
 - [test-reexec](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/test-reexec) - Tests w.r.t. task re-execution.
 - [test-remote-image](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/test-remote-image) - Tests public autobuilder images on remote hardware.
