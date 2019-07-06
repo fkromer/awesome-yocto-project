@@ -9,6 +9,7 @@
 - [Books](#books)
 - [Development tools](#development-tools)
 - [Documentation](#documentation)
+- [Layers](#layers)
 - [Online courses](#online-courses)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
@@ -128,6 +129,13 @@
 
 - [Raspberry Pi with embedded Linux made by Yocto (Udemy)](https://www.udemy.com/raspberry-pi-with-embedded-linux-made-by-yocto/).
 - [Yocto Embedded Linux with the Raspberry Pi (Udemy)](https://www.udemy.com/embedded-linux-with-the-raspberry-pi/).
+
+## Layers
+
+- [OpenEmbedded Layers Index](https://layers.openembedded.org/layerindex/branch/master/layers/).
+- [OpenEmbedded Layer Index - Distros](https://layers.openembedded.org/layerindex/branch/master/distros/?q=&browse=1).
+- [OpenEmbedded Layer Index - Classes](https://layers.openembedded.org/layerindex/branch/master/classes/?q=&browse=1).
+- [OpenEmbedded Layers Index - Machines](https://layers.openembedded.org/layerindex/branch/master/machines/?q=&browse=1).
 
 ## Presentations
 
