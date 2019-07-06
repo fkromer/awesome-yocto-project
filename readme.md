@@ -7,6 +7,7 @@
 ## Contents
 
 - [Books](#books)
+- [Development tools](#development-tools)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
 
@@ -20,6 +21,20 @@
 - [Learning Embedded Linux Using the Yocto Project (2015)](https://www.packtpub.com/application-development/learning-embedded-linux-using-yocto-project) - 334 pages long read.
 - [Yocto for BeagleBone Black (2015)](https://www.packtpub.com/hardware-and-creative/yocto-beaglebone) - Short 144 pages long read specific to the BeagleBone Black.
 - [Yocto for Raspberry Pi (2016)](https://www.packtpub.com/hardware-and-creative/yocto-raspberry-pi) - Short 214 pages long read specific to the Raspberry Pi.
+
+## Development tools
+
+- [task-time](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/task-time) - Reports time consumed for one or more task.
+- [test-reexec](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/test-reexec) - Tests w.r.t. task re-execution.
+- [test-remote-image](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/test-remote-image) - Tests public autobuilder images on remote hardware.
+- tiny
+  - [dirsize.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/tiny/dirsize.py) - Displays details of the root filesystem size, broken up by directory.
+  - [ksize.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/tiny/ksize.py) - Displays details of the kernel build size.
+  - [ksum](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/tiny/ksum.py) - Generates a combined summary of vmlinux and module sizes for a built kernel, as a quick tool for comparing the overall effects of systemic tinification changes.
+- [verify-bashisms](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/verify-bashisms) - Verifies bash code.
+- [wic](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/wic) - Generates bootable images.
+- [yocto-check-layer](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer) - Checks layer in a potentially contaminated environment.
+- [yocto-check-layer-wrapper](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer-wrapper) - Checks layer in a clean environment.
 
 ## Presentations
 
