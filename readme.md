@@ -26,6 +26,8 @@
 
 ## Development tools
 
+- [pybootchartgui](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/pybootchartgui/) - Visualizes and analyzes the GNU/Linux boot process.
+- [pythondeps](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/pythondeps) - Determines dependencies of python scripts or available python modules in a search path.
 - [recipetool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/recipetool) - Creates recipes.
 - [relocate_sdk.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/relocate_sdk.py) - Called by the SDK installer script, replaces the dynamic loader path in all binaries and also fixes the SYSDIR paths/lengths and the location of ld.so.cache in the dynamic loader binary.
 - [resulttool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/resulttool) - Manipulates (merge, etc.) OEQA test result json files.
