@@ -6,8 +6,20 @@
 
 ## Contents
 
+- [Books](#books)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
+
+## Books
+
+- [Embedded Linux Development using Yocto Projects (2nd edition, 2017)](https://www.packtpub.com/virtualization-and-cloud/embedded-linux-development-using-yocto-projects-second-edition) - Short 162 pages long read.
+- [Embedded Linux Development Using Yocto Project Cookbook (2nd edition, 2018)](https://www.packtpub.com/virtualization-and-cloud/embedded-linux-development-using-yocto-project-cookbook-second-edition) - 456 pages long read.
+- [Embedded Linux Development with Yocto Project (2014)](https://www.packtpub.com/application-development/embedded-linux-development-yocto-project) - Short 142 pages long read.
+- [Embedded Linux Projects Using Yocto Project Cookbook (2015)](https://www.packtpub.com/virtualization-and-cloud/embedded-linux-projects-using-yocto-project-cookbook) - 324 pages long read.
+- [Embedded Linux Systems with the Yocto Project (2016)](https://dl.acm.org/citation.cfm?id=3051933) - 480 pages long read.
+- [Learning Embedded Linux Using the Yocto Project (2015)](https://www.packtpub.com/application-development/learning-embedded-linux-using-yocto-project) - 334 pages long read.
+- [Yocto for BeagleBone Black (2015)](https://www.packtpub.com/hardware-and-creative/yocto-beaglebone) - Short 144 pages long read specific to the BeagleBone Black.
+- [Yocto for Raspberry Pi (2016)](https://www.packtpub.com/hardware-and-creative/yocto-raspberry-pi) - Short 214 pages long read specific to the Raspberry Pi.
 
 ## Presentations
 
