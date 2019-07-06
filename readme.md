@@ -24,6 +24,18 @@
 
 ## Development tools
 
+- [recipetool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/recipetool) - Creates recipes.
+- [relocate_sdk.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/relocate_sdk.py) - Called by the SDK installer script, replaces the dynamic loader path in all binaries and also fixes the SYSDIR paths/lengths and the location of ld.so.cache in the dynamic loader binary.
+- [resulttool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/resulttool) - Manipulates (merge, etc.) OEQA test result json files.
+- [rootfs_rpm-extract-postinst.awk](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/rootfs_rpm-extract-postinst.awk).
+- [rpm2cpio.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/rpm2cpio.sh).
+- [runqemu](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu) - Handles running OE images standalone with QEMU.
+- [runqemu-addptable2image](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu-addptable2image) - Adds a partion table to an ext2 image file.
+- [runqemu-export-rootfs](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu-export-rootfs).
+- [runqemu-extract-sdk](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu-extract-sdk) - Extracts an SDK image tarball using pseudo, and stores the pseudo database in var/pseudo within the rootfs.
+- [runqemu-gen-tapdevs](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu-gen-tapdevs) - Creates a "bank" of tap network devices that can be used by the runqemu script.
+- [runqemu-ifdown](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu-ifdown) - QEMU network configuration script to bring down tap devices.
+- [runqemu-ifup](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu-ifup) - QEMU network interface configuration script to bring up single tap device (alternative to runqemu-gen-tapdevs).
 - [send-error-report](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/send-error-report) - Sends an error report (if the report-error class was enabled) to a remote server.
 - [send-pull-request](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/send-pull-request) - Sends a patch series prepared by the create-pull-request script to Open Embedded and The Yocto Project, as well as to related projects and layers.
 - [sstate-cache-management.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sstate-cache-management.sh) - sstate cache management utilities to e.g. remove dublicated files.
