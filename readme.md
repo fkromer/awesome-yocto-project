@@ -132,6 +132,10 @@
 - [Yocto Project Reference Manual](https://www.yoctoproject.org/docs/2.7/ref-manual/ref-manual.html)
 - [Yocto Project Mega Manual](https://www.yoctoproject.org/docs/current/mega-manual/mega-manual.html)
 
+### Misc
+
+- [Yocto Project Wiki](https://wiki.yoctoproject.org/wiki/Main_Page)
+
 ## Online Courses
 
 - [Raspberry Pi with embedded Linux made by Yocto (Udemy)](https://www.udemy.com/raspberry-pi-with-embedded-linux-made-by-yocto/).
