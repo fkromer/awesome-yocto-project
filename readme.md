@@ -107,6 +107,12 @@
 
 ## Documentation
 
+### Intro
+
+- [Yocto Project Quick Build](https://www.yoctoproject.org/docs/2.7/brief-yoctoprojectqs/brief-yoctoprojectqs.html)
+- [What I Wish I'd Known](https://www.yoctoproject.org/docs/what-i-wish-id-known/)
+- [Transitioning to a Custom Environment](https://www.yoctoproject.org/docs/transitioning-to-a-custom-environment/)
+
 ### Development Manuals / How Tos
 
 - [Yocto Project Overview and Concepts Manual](https://www.yoctoproject.org/docs/2.7/overview-manual/overview-manual.html)
@@ -114,6 +120,7 @@
 - [Yocto Project Board Support Package (BSP) Developer's Guide](https://www.yoctoproject.org/docs/2.7/bsp-guide/bsp-guide.html)
 - [Yocto Project Profiling and Tracing Manual](https://yoctoproject.org/docs/2.7/profile-manual/profile-manual.html)
 - [Yocto Project Linux Kernel Development Manual](https://www.yoctoproject.org/docs/2.7/kernel-dev/kernel-dev.html)
+- [Yocto Project Application Development and the Extensible Software Development Kit (eSDK)](https://www.yoctoproject.org/docs/2.7/sdk-manual/sdk-manual.html)
 
 ### Tools Manuals
 
