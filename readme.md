@@ -159,6 +159,10 @@
 - Why the Yocto Project for My IoT Project [slides](https://elinux.org/images/c/c1/Why-the-Yocto-Project-for-My-IoT-Project-Drew-Moseley-Mender.io_.pdf) / [video](https://youtu.be/hh1UiX4awCE).
 - Working with the Linux Kernel in the Yocto Project (Embedded Linux Conference) [slides](https://elinux.org/images/a/a6/2018-ELC-YP%2BKernel-Hudson-reduced.pdf) / [video](https://darknighte.com/ELC2018Video).
 
+### Misc
+
+- [Yocto Project on Vimeo](https://vimeo.com/yoctoproject) - Playlist with very basic, short, older screencasts about workflow, toaster and hob.
+
 ## Trainings
 
 ### 2019
