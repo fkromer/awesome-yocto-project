@@ -154,6 +154,10 @@
 
 ## Trainings
 
+### 2019
+
+- A practical guide to BitBake [blog post](https://a4z.bitbucket.io/docs/BitBake/guide.html) / [companion code](https://bitbucket.org/a4z/bitbakeguide/src/master/).
+
 ### 2018
 
 - Workshop: Yocto Project, an automatic generator of embedded linux distributions [slides](ftp://ftp.koansoftware.com/public/talks/LinuxLAB-2018/LinuxLAB-2018-Yocto-Koan.pdf) / [companion code](https://github.com/koansoftware/linuxlab-yocto) - Shows ow to use the CROPS poky container.
