@@ -1,5 +1,7 @@
 # Awesome Yocto Project [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
+<div align="center"><img width="500" src="LF_17_02_Yocto-Badge-Update_Participant_Final.png" alt="Yocto Project Participant logo"></div>
+
 > It's not an embedded Linux Distribution, It creates a custom one for you.
 
 ## Contents
