@@ -60,6 +60,7 @@
 - [create-pull-request](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/create-pull-request) - Prepare a series of patches and a cover letter in an appropriate and consistent format for submission to Open Embedded and The Yocto Project, as well as to related projects and layers.
 - [crosstap](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/crosstap) - Builds a systemtap script for a given image, kernel.
 - [devtool](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/devtool) - OpenEmbedded Development tool.
+- [kas](https://github.com/siemens/kas) - Setup tool for bitbake based projects.
 - [oe-build-perf-report](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-build-perf-report) - Generates build performance test results.
 - [oe-build-perf-test](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-build-perf-test) - Tests build performance.
 - [oe-check-sstate](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/oe-check-sstate) - Queries which tasks will be restored from sstate.
